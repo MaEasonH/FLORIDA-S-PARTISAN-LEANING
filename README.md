@@ -1,1 +1,5 @@
-# Florida-Counties-during-the-early-voting-and-vote-by-mail-periods.
+# FLORIDA-S-PARTISAN-LEANING
+
+## subtitle: "Using logistic regression model to predict the tendencies of different political parties in Florida and their influences in 2023."
+
+abstract: In this study, we delve into the dynamics of partisan alignment in Florida—a key swing state known for its fluctuating political orientation in 2023. Amidst a climate of intense political mobilization and rising voter registrations, our investigation targets the influence of minor party affiliation and the proportion of voters with no party affiliation on a county's inclination towards the Republican Party. Utilizing a logistic regression model, apt for dichotomous dependent variables, our findings inch toward statistical significance, suggesting nuanced impacts of these factors on Republican predominance. Despite not reaching conventional significance levels, our model, with an AIC of 56.824, hints at underlying patterns: minor party affiliation has a coefficient estimate of 6.853e-04 (p = 0.0646), and no party affiliation shows a coefficient estimate of -6.171e-05 (p = 0.0641). These results suggest a marginal yet discernible effect on GOP leanings, providing a framework for understanding the complex influence of voter registration on political tendencies within Florida's counties.
