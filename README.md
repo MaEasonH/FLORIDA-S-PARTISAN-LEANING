@@ -1,0 +1,1 @@
+# Florida-Counties-during-the-early-voting-and-vote-by-mail-periods.
